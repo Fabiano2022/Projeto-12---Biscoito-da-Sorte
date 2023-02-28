@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto, proposto pela equipe da Rocketseat, fizemos o Biscoito da Sorte onde apresentamos ao usuário a mensagem: Qual é a sua sorte de hoje?. Ao clicar na imagem, o usuário recebia uma mensagem motivacional. 
 
 
-[Visite o projeto online] (https://fabiano2022.github.io/Projeto-12---Biscoito-da-Sorte/) 
+[Visite o projeto online] (https://fabiano2022.github.io/Projeto-12-Biscoito-da-Sorte/) 
 
 
 ## 🔖 Layout
